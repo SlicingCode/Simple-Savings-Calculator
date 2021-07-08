@@ -1,0 +1,10 @@
+C:\Users\17194\Desktop\GitHub\Simple Savings Calculator\Simple Savings Calculator\bin\Debug\Simple Savings Calculator.exe.config
+C:\Users\17194\Desktop\GitHub\Simple Savings Calculator\Simple Savings Calculator\bin\Debug\Simple Savings Calculator.exe
+C:\Users\17194\Desktop\GitHub\Simple Savings Calculator\Simple Savings Calculator\bin\Debug\Simple Savings Calculator.pdb
+C:\Users\17194\Desktop\GitHub\Simple Savings Calculator\Simple Savings Calculator\obj\Debug\Simple Savings Calculator.csproj.AssemblyReference.cache
+C:\Users\17194\Desktop\GitHub\Simple Savings Calculator\Simple Savings Calculator\obj\Debug\Simple_Savings_Calculator.Form1.resources
+C:\Users\17194\Desktop\GitHub\Simple Savings Calculator\Simple Savings Calculator\obj\Debug\Simple_Savings_Calculator.Properties.Resources.resources
+C:\Users\17194\Desktop\GitHub\Simple Savings Calculator\Simple Savings Calculator\obj\Debug\Simple Savings Calculator.csproj.GenerateResource.cache
+C:\Users\17194\Desktop\GitHub\Simple Savings Calculator\Simple Savings Calculator\obj\Debug\Simple Savings Calculator.csproj.CoreCompileInputs.cache
+C:\Users\17194\Desktop\GitHub\Simple Savings Calculator\Simple Savings Calculator\obj\Debug\Simple Savings Calculator.exe
+C:\Users\17194\Desktop\GitHub\Simple Savings Calculator\Simple Savings Calculator\obj\Debug\Simple Savings Calculator.pdb
